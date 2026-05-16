@@ -1,0 +1,40 @@
+{
+	"mode": "external",
+	"hidden": false,
+	"title": "外链相册",
+	"description": "这是一个使用外链图片的相册，所有图片都来自外部链接",
+	"date": "2026-05-03",
+	"location": "网络",
+	"tags": ["外链","二次元"],
+	"layout": "masonry",
+	"columns": 3,
+	"cover": "https://picsum.photos/800/600?random=1",
+	"photos": [
+		{
+			"id": "external-1",
+			"src": "https://t.alcy.cc/pc",
+			"alt": "PC横图",
+			"title": "二次元",
+			"description": "这是一张二次元图片",
+			"tags": ["二次元"]
+		},
+
+		{
+			"id": "external-2",
+			"src": "https://t.alcy.cc/moe",
+			"alt": "萌版横图",
+			"title": "二次元",
+			"description": "这是一张萌版的二次元图片",
+			"tags": ["二次元"]
+		},
+
+		{
+			"id": "external-3",
+			"src": "https://t.alcy.cc/ys",
+			"alt": "原神横图",
+			"title": "二次元",
+			"description": "这是一张横图的原神图片",
+			"tags": ["二次元"]
+		}
+	]
+}

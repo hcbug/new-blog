@@ -1,0 +1,18 @@
+packages:
+  - '.astro/*'
+  - '.devin/*'
+  - '.github/*'
+  - '.pnpm-store/*'
+  - '.vscode/*'
+  - 'docs/*'
+  - 'node_modules/*'
+  - 'public/*'
+  - 'srcipts/*'
+  - 'src/*'
+
+onlyBuiltDependencies:
+  - '@parcel/watcher'
+  - esbuild
+  - sharp
+  - swup
+  - ttf2woff2
