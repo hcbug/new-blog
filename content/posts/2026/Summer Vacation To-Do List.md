@@ -157,5 +157,5 @@ This list will continually evolve with my adventures. If you find any item parti
 Now, **let's get started**! 🚀 ...
 
 ---
-## 原稿
-![原稿](https://gitee.com/hcbug/picture1/raw/master/20260608070534044.webp)
+## Manuscript
+![manuscript](https://gitee.com/hcbug/picture1/raw/master/20260608070534044.webp)

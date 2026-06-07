@@ -54,8 +54,8 @@ function confirmOpen() {
 onMounted(() => {
 	window.twikoo?.init?.({
 		envId: appConfig.twikoo?.envId,
-		// twikoo 会把挂载后的元素变为 #twikoo
 		el: '#twikoo',
+		katex: 'https://lib.baomitu.com/KaTeX/0.16.9/katex.min.js',
 	})
 })
 </script>
