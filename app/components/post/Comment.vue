@@ -55,7 +55,7 @@ onMounted(() => {
 	window.twikoo?.init?.({
 		envId: appConfig.twikoo?.envId,
 		el: '#twikoo',
-		katex: 'https://lib.baomitu.com/KaTeX/0.16.9/katex.min.js',
+		katex: window.katex,
 	})
 })
 </script>
