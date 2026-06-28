@@ -1,9 +1,11 @@
 ---
 title: 组件样式示例
-date: 2024-09-21 23:18:18
-updated: 2026-04-06 17:25:03
+date: 2026-05-01 00:00:00
+updated: 2026-06-28 10:46:03
 aside: [toc, meta-aside-foo, meta-aside-bar]
-# type: story
+image: https://gitee.com/hcbug/picture1/raw/master/20260628104931914.webp
+categories: [技术]
+tags: [博客]
 ---
 
 ## 在 Markdown 中使用组件

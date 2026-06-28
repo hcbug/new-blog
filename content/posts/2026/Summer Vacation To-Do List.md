@@ -1,54 +1,54 @@
 ---
 title: Summer Vacation To-Do List
-description: I wanna do in summer vacation.
+description: 之所以用英文写，还是因为内容比较敏感，不想被人误解为在炫耀什么，毕竟我也没什么值得炫耀的。只是想记录一下自己在暑假期间的计划和目标，给自己一个明确的方向。
 date: 2026-06-06 09:21:43
-updated: 2026-06-07 09:21:43
+updated: 2026-06-28 10:30:23
 image: https://gitee.com/hcbug/picture1/raw/master/20260607223310910.webp
 type: 计划
 categories: [开发]
 tags: [学习, 计划]
 ---
 
-Welcome to my **Digital Adventure Project**! Here, I document the mountains I’m going to conquer, the code I’ll write, and the unknown realms I’ll explore. Click to collapse, hover over links, and keep an eye out for those sparkling [tips]{.text-zoom}—this document is **more than just** a list; it’s my interactive battle map.
+Welcome to my **Digital Adventure Project**! Here, I document the mountains I’m going to conquer, the code I’ll write, and the unknown realms I’ll explore.
 
 > "Plans are meant to better accommodate spontaneity." — Some smart person (or maybe me)
 
-## Finance & Accounts · Where the Money Flows 🪙
+## Finance & Accounts · Where the Money Flows
 
 ::alert{type="info" card}
 #title
-💳 **Credit Card Application**
+ **Credit Card Application**
 #default
-- **Bank of China (Shuyang)**
-- Apply for **UnionPay** and **Visa** at the same time (to pave the way for international payments)
+- **Bank of China**
+- Apply for **Visa** at the same time (to pave the way for international payments)
 ::
 
-::folding{title="🌐 VPN Research (Cost-Sensitive)"}
+::folding{title="VPN Research"}
 - Look for reliable VPN options
 - Keep the monthly budget under **$2**
-- Identify the **most useful** server regions (streaming, privacy, speed)
+- Identify the **most useful** server regions
 
 :tip[Tip]{tip="Consider keeping an eye on some open-source or niche protocols, they might be a pleasant surprise"}
 ::
 
-::alert{title="💵 Bitcoin"}
-Stay tuned, but don't go all in for now. :badge[Cautious]{square}
+::alert{title="Bitcoin"}
+I'll stay tuned, but don't go all in for now. :badge[Cautious]{square}
 ::
 
-## Magic Workshop on GitHub 🔧
+## Magic Workshop on GitHub
 
 | Project | Status | Tags |
 | ---- | ---- | ---- |
-| Flipper Zero Video Player | 🚧 In Development | :badge[C++]{round} |
-| YouTube Downloader (Merge MP4+MP3) | 🚧 In Development | :badge[Python]{round} :badge[ffmpeg] |
+| Flipper Zero Video Player | In Planning | :badge[C++]{round} |
+| YouTube Downloader (Merge MP4+MP3) | In Planning | :badge[Python]{round} :badge[ffmpeg] |
 
 :quote[Super easy to use like a Bilibili downloader, but optimized for YouTube.]
 
-## 🌍 Web Hubs · Web Projects
+## Web Hubs · Web Projects
 
 ### Image Hosting Service
-- **Telegram Integration** (automatically receive and host)
-- **GitHub Replica Management** (keep synced)
+- **Telegram Integration**
+- **GitHub Replica Management**
 - Continuous maintenance, development, and updates
 
 ### Personal Website
@@ -58,18 +58,18 @@ Stay tuned, but don't go all in for now. :badge[Cautious]{square}
 
 ### Blog
 - Achieve **real-time deployment and updates** (e.g., Vercel + GitHub)
-- **Regularly add new content** (at least one post per week)
+- **Regularly add new content**
 
 ### Comment System (Twikoo)
 ::alert{type="error" flat}
-Fix existing B U G
+Fix existing BUG
 ::
 
 ### Szwain Project
 - Update **About page** for a more complete story
 - Expand **changelog**, detailing changes in each version
 
-## 🎓 Skill Tree · Unlock New Branches
+## Skill Tree · Unlock New Branches
 
 ::card-list
 - **Python, C++, Java** — The trio of languages
@@ -78,7 +78,7 @@ Fix existing B U G
 - **Music Creation**: Using **Vocaloid** (Hatsune Miku as the main singer!)
 ::
 
-::folding{title="🎮 Game List · Worlds to Conquer" open}
+::folding{title="Game List · Worlds to Conquer" }
 - Zenless Zone Zero
 - Blue Archive
 - Sky: Children of the Light
@@ -87,7 +87,7 @@ Fix existing B U G
 - Maimai DX
 ::
 
-::folding{title="📱 App Projects · Creativity at Your Fingertips"}
+::folding{title="App Projects · Creativity at Your Fingertips"}
 - Simplify and improve **NoTopDomain decoding**
 - Create a **game or resource sharing website** (PC + mobile adaptation)
 ::
@@ -113,31 +113,31 @@ International Internet Culture, Iceberg Charts
 ::
 
 ### Internet Culture · Mysterious Corners
-- **AV10496** and related content (Anime Holy Grail War?)
-- **Hurt Olympics** (understand its background)
+- **AV10496** and related content
+- **Hurt Olympics**
 - Study **unusual or dangerous videos** mentioned in iceberg charts
 
-::alert{type="warning" title="⚠️ Explore Carefully"}
+::alert{type="warning" title="Explore Carefully"}
 Some content may be disturbing; it is recommended to maintain a critical distance.
 ::
 
-## 🌐 Globalization · Connecting the World
+## Globalization · Connecting the World
 
 - Participate more actively on **Reddit**
-- **Obtain a Visa credit card** (already planned in finances)
-- **Get a U.S. phone number** (for certain service verifications)
+- **Obtain a Visa credit card**
+- **Get a U.S. phone number**
 - English reading list:
   - Helbling Readers series
-  - *The Little Prince* (English version)
+  - *The Little Prince*
 
-## 🧩 Miscellaneous · Pearls in the Sea of To-Do
+## Miscellaneous · Pearls in the Sea of To-Do
 
-::folding{title="📦 Various Oddities"}
+::folding{title="Various Oddities"}
 - JBK on Bilibili
 - Backup my USB drive
 - OpenClaw
-- Cosmic Princess Kaguya! (Princess of the Moon)
-- **Neal.fun** (explore this interesting website)
+- Cosmic Princess Kaguya!
+- **Neal.fun**
 - Collect and organize **Szwain (2025)** raw materials
 ::
 
@@ -152,10 +152,13 @@ These scattered ideas will eventually connect into a line.
 
 :blog-header
 
-This list will continually evolve with my adventures. If you find any item particularly interesting, or have collaboration ideas, feel free to contact me via the sidebar component of my blog (yes, there are surprises hidden in those `meta-aside-*`).
+This list will continually evolve with my adventures.
 
-Now, **let's get started**! 🚀 ...
+Now, **let's get started**!
 
 ---
-## Manuscript
-![manuscript](https://gitee.com/hcbug/picture1/raw/master/20260608070534044.webp)
+::pic
+---
+src: https://gitee.com/hcbug/picture1/raw/master/20260608070534044.webp
+caption: Manuscript
+::
