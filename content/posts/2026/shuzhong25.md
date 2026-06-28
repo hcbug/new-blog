@@ -1,8 +1,8 @@
 ---
 title: 沭中 · 印象
-description: 沭中在高一新生的眼中是什么样的？。
+description: 沭中在高一新生的眼中是什么样的？关于博主与沭阳高级中学的邂逅。
 date: 2026-04-30 07:56:29
-updated: 2026-06-07 07:56:29
+updated: 2026-06-28 11:01:01
 image: https://gitee.com/hcbug/picture1/raw/master/20260607223300689.webp
 type: story
 categories: [生活]

@@ -1,6 +1,7 @@
 ---
 title: 组件样式示例
-date: 2026-05-01 00:00:00
+description: 这是新博客的组件样式备忘录，主要用于测试和展示。
+date: 2026-04-30 00:00:00
 updated: 2026-06-28 10:46:03
 aside: [toc, meta-aside-foo, meta-aside-bar]
 image: https://gitee.com/hcbug/picture1/raw/master/20260628104931914.webp

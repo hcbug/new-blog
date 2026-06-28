@@ -1,6 +1,6 @@
 ---
 title: Summer Vacation To-Do List
-description: 之所以用英文写，还是因为内容比较敏感，不想被人误解为在炫耀什么，毕竟我也没什么值得炫耀的。只是想记录一下自己在暑假期间的计划和目标，给自己一个明确的方向。
+description: 之所以用英文写，还是因为内容比较敏感。不想被人误解为在炫耀什么，毕竟我也没什么值得炫耀的。只是想记录一下自己在暑假期间的计划和目标，给自己一个明确的方向。
 date: 2026-06-06 09:21:43
 updated: 2026-06-28 10:30:23
 image: https://gitee.com/hcbug/picture1/raw/master/20260607223310910.webp
@@ -155,10 +155,3 @@ These scattered ideas will eventually connect into a line.
 This list will continually evolve with my adventures.
 
 Now, **let's get started**!
-
----
-::pic
----
-src: https://gitee.com/hcbug/picture1/raw/master/20260608070534044.webp
-caption: Manuscript
-::
