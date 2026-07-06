@@ -64,9 +64,7 @@ tags: [沭中, 事情]
 [原链接](https://forum.eduzhixin.com/discuss-detail/55286)
 
 ::meta-aside-foo{title="其他" card}
-[沭中史会勇传记_20230122](https://gitee.com/hcbug/picture1/raw/master/20260607233559982.pdf)
 
-[沭中pron](https://img.yohuo.eu.org/1777900741469.mp4)
+如果你看到我了，就请你好好活下去吧。
 
-智学网全知账号：13852812106 zhb010628
 ::
