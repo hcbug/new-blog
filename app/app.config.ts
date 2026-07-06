@@ -59,7 +59,7 @@ export default defineAppConfig({
 		iconNav: [
 			{ icon: 'tabler:home', text: '个人主页', url: blogConfig.author.homepage },
 			{ icon: 'tabler:brand-bilibili', text: 'BiliBili', url: 'https://space.bilibili.com/3546923357178301' },
-			{ icon: 'tabler:brand-github', text: 'GitHub: octocat', url: 'https://github.com/hcbug' },
+			{ icon: 'tabler:brand-github', text: 'GitHub: hcbug', url: 'https://github.com/hcbug' },
 			{ icon: 'tabler:rss', text: 'Atom订阅', url: '/atom.xml' },
 			{ icon: 'ri:subway-line', text: '开往 - 博客下一站', url: 'https://www.travellings.cn/go.html' },
 		] satisfies NavItem[],
