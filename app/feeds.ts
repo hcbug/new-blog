@@ -793,7 +793,7 @@ export default [
 				avatar: getGithubAvatar('Zhousiru'),
 				archs: ['Astro', 'Cloudflare'],
 				date: '2026-02-25',
-				comment: '素未谋面的同事，前端大手子。',
+				comment: '前端大手子。',
 			},
 			{
 				author: 'LuckyFish',
