@@ -15,9 +15,9 @@ updated: 2026-06-06 03:15:52
     ```ts
     export default {
     	title: '洪畅的博客',
-    	desc: '想，全是问题；做，才有答案',
+    	desc: '想，全是问题；做，才有答案。',
     	link: 'https://blog.hcbu.cn',
-    	avatar: 'https://img.hcbu.cn/file/1780726368714_home.webp',
+    	avatar: 'https://gitee.com/hcbug/picture1/raw/master/20260607223324364.webp',
     } satisfies Friend
     ```
     ````
