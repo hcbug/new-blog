@@ -22,7 +22,7 @@ export default [
 				icon: 'https://cravatar.cn/avatar/646331BFF8F19A0E05679C3CC0FC54D6',
 				avatar: 'https://cdn.libravatar.org/avatar/646331bff8f19a0e05679c3cc0fc54d6?s=160',
 				archs: ['Nuxt', 'Netlify'],
-				date: '2023-12-23',
+				date: '2026-07-01',
 				comment: '爱好番剧/折腾。',
 			},
 			{
@@ -35,7 +35,7 @@ export default [
 				icon: 'https://blog.junjieli.top/api/icon.webp',
 				avatar: 'https://www.junjieli.top/logo_64x64.png',
 				archs: ['Nuxt', 'Vercel'],
-				date: '2024-02-01',
+				date: '2026-07-01',
 				comment: '瓜大网安学长。',
 			},
 			{
@@ -47,7 +47,7 @@ export default [
 				icon: 'https://weavatar.com/avatar/67254b346498965226e5c91ebff66a69570b97f224d2d061e504b4eade1f00fa',
 				avatar: getOicqAvatar('1043865083'),
 				archs: ['Nuxt', 'EdgeOne'],
-				date: '2024-07-28',
+				date: '2026-07-01',
 				comment: '经验分享。',
 			},
 			{
@@ -58,7 +58,7 @@ export default [
 				icon: 'https://www.bsgun.cn/favicon.ico',
 				avatar: 'https://oss-cdn.bsgun.cn/logo/avatar.256.png',
 				archs: ['Nuxt', 'EdgeOne'],
-				date: '2024-08-20',
+				date: '2026-07-01',
 				comment: '博客折腾',
 			},
 			{
@@ -71,7 +71,7 @@ export default [
 				icon: 'https://pic1.imgdb.cn/item/6900c4b13203f7be00ac9ded.png',
 				avatar: 'https://pic1.imgdb.cn/item/69d51522cfae5fcb267af121.webp',
 				archs: ['Nuxt', 'Vercel'],
-				date: '2024-10-22',
+				date: '2026-07-01',
 				comment: '技术分享。',
 			},
 			{
@@ -84,7 +84,7 @@ export default [
 				icon: 'https://x.xinb.de/i/2024/09/19/040857.webp',
 				avatar: getGithubAvatar('damizai'),
 				archs: ['Nuxt', 'Cloudflare'],
-				date: '2025-05-09',
+				date: '2026-07-01',
 				comment: '软件工具资源，博客部署美化。',
 			},
 			{
@@ -97,7 +97,7 @@ export default [
 				icon: 'https://blog.shenley.cn/avatar.jpg',
 				avatar: 'https://blog.shenley.cn/avatar.jpg',
 				archs: ['Nuxt', 'Vercel'],
-				date: '2025-05-20',
+				date: '2026-07-01',
 				comment: '前端开发、生活分享。',
 			},
 			{
@@ -110,7 +110,7 @@ export default [
 				icon: 'https://blog.vacu.top/favicon.ico',
 				avatar: 'https://blog.vacu.top/assets/img/avatar.png',
 				archs: ['Nuxt', 'Cloudflare'],
-				date: '2025-07-26',
+				date: '2026-07-01',
 				comment: '对世界的学习与思考。',
 			},
 			{
@@ -121,7 +121,7 @@ export default [
 				icon: 'https://www.weilog.me/favicon.ico',
 				avatar: 'https://bitmc.uno/picgo/126662463_p2.jpg',
 				archs: ['Nuxt', 'Vercel'],
-				date: '2025-07-28',
+				date: '2026-07-01',
 				comment: '前端大手子，运营prop.show播客，分享前端技术的心得。',
 			},
 			{
@@ -134,7 +134,7 @@ export default [
 				icon: 'https://cdn2.elh.dpdns.org/picture/2025/5223b2101b56608abd83b63642984b1f.avif',
 				avatar: 'https://cdn2.elh.dpdns.org/picture/2025/57bd486ead4f5b34a28aea7f160a70ae.avif',
 				archs: ['Nuxt', 'Vercel'],
-				date: '2025-08-17',
+				date: '2026-07-01',
 				comment: '以诗词、杂记等形式记录感悟与创作。',
 			},
 			{
@@ -145,7 +145,7 @@ export default [
 				icon: 'https://www.xsl.im/favicon.webp',
 				avatar: 'https://www.xsl.im/avatar.webp',
 				archs: ['Nuxt', '服务器'],
-				date: '2025-08-18',
+				date: '2026-07-01',
 				comment: '网站反代配置、服务器评测、域名更换、存储加速、工具推荐、编程题解等折腾与技术分享。',
 			},
 			{
@@ -157,7 +157,7 @@ export default [
 				icon: 'https://www.qixz.cn/favicon.svg',
 				avatar: 'https://www.qixz.cn/avatar.avif',
 				archs: ['Nuxt', '国内 CDN'],
-				date: '2025-08-20',
+				date: '2026-07-01',
 				comment: '网站攻击处理曝光，博客配置魔改等技术教程与资源分享。',
 			},
 			{
@@ -170,7 +170,7 @@ export default [
 				icon: 'https://www.fis.ink/img/logo_c.png',
 				avatar: 'https://www.fis.ink/img/logo.png',
 				archs: ['Nuxt', 'EdgeOne'],
-				date: '2025-09-13',
+				date: '2026-07-01',
 				comment: '博客/服务器技术实践、生活记录、资源分享。',
 			},
 			{
@@ -182,7 +182,7 @@ export default [
 				icon: 'https://blog.linux-qitong.top/img/favicon.webp',
 				avatar: 'https://blog.linux-qitong.top/img/avatar.webp',
 				archs: ['Nuxt', 'Vercel'],
-				date: '2025-10-17',
+				date: '2026-07-01',
 				comment: '原名青稚，博客记录Linux使用、博客部署、生活反思。',
 			},
 			{
@@ -193,7 +193,7 @@ export default [
 				icon: 'https://file.dhbxs.top/2026/01/nllahmfi.png',
 				avatar: 'https://file.dhbxs.top/ylvwvjjs.jpg',
 				archs: ['Halo', '国内 CDN'],
-				date: '2025-11-01',
+				date: '2026-07-01',
 				comment: '深度学习、大数据与软件工程学习笔记。',
 			},
 			{
@@ -204,13 +204,13 @@ export default [
 				icon: 'https://blog.kayro.cn/favicon.svg',
 				avatar: 'https://blog.kayro.cn/avatar.webp',
 				archs: ['Nuxt', 'EdgeOne'],
-				date: '2026-05-11',
+				date: '2026-07-01',
 				comment: '分享系统搭建、工具配置、AI 部署及编程学习笔记的技术博客。',
 			},
 		],
 	},
 	// #endregion
-	// #region 网上邻居 since 2024
+	// #region 网上邻居 since 2026-07-02
 	{
 		name: '网上邻居',
 		desc: '哔——啵——电波通讯中，欢迎常来串门。',
@@ -224,7 +224,7 @@ export default [
 				icon: 'https://www.isyangs.cn/favicon.svg',
 				avatar: 'https://www.isyangs.cn/favicon.svg',
 				archs: ['Vue', '国内 CDN'],
-				date: '2024-01-29',
+				date: '2026-07-02',
 				comment: '目前从事前端开发。',
 			},
 			{
@@ -237,7 +237,7 @@ export default [
 				icon: 'https://www.skira.top/img/skira.ico',
 				avatar: 'https://www.skira.top/img/lemonsuka.webp',
 				archs: ['Hexo', 'Vercel'],
-				date: '2024-02-01',
+				date: '2026-07-02',
 				comment: '搞机发烧友，小众系统爱好者，前端研究员。',
 			},
 			{
@@ -248,7 +248,7 @@ export default [
 				icon: 'https://blog.zhheo.com/img/favicon4.0.webp',
 				avatar: 'https://blog.zhheo.com/img/favicon4.0.webp',
 				archs: ['Hexo', '国内 CDN'],
-				date: '2024-02-02',
+				date: '2026-07-02',
 				comment: '知名博主，其博客设计风格被众多人借鉴。',
 			},
 			{
@@ -260,7 +260,7 @@ export default [
 				icon: 'https://blog.revincx.icu/images/favico.png',
 				avatar: 'https://weavatar.com/avatar/20eed6a268787c9a751165bc1ec56e90',
 				archs: ['Hexo', 'Vercel'],
-				date: '2024-02-05',
+				date: '2026-07-02',
 				comment: '折腾。',
 			},
 			{
@@ -272,7 +272,7 @@ export default [
 				icon: 'https://www.yunyitang.me/favicon/favicon.ico',
 				avatar: 'https://www.yunyitang.me/img/Avatar.png',
 				archs: ['Hexo', 'GitHub Pages'],
-				date: '2024-02-18',
+				date: '2026-07-02',
 				comment: '很有博客的味道。',
 			},
 			{
@@ -285,7 +285,7 @@ export default [
 				icon: 'https://blog.moeworld.tech/wp-content/uploads/2024/08/cropped-favicon-32x32.png',
 				avatar: 'https://blog.moeworld.tech/wp-content/themes/kratos-pjax-master/static/images/photo.jpg',
 				archs: ['WordPress', 'Cloudflare'],
-				date: '2024-02-25',
+				date: '2026-07-02',
 				comment: '技术折腾笔记。',
 			},
 			{
@@ -296,7 +296,7 @@ export default [
 				icon: 'https://kegongteng.cn/favicon.ico',
 				avatar: 'https://weavatar.com/avatar/0b01396273cca253aa6876c020449b655a9cc12e75f921b38ac088569e814b5e',
 				archs: ['Next.js', 'Netlify'],
-				date: '2024-02-25',
+				date: '2026-07-02',
 				comment: '有不错想法的开发者。',
 			},
 			{
@@ -308,7 +308,7 @@ export default [
 				icon: 'https://www.luochancy.com/wp-content/uploads/2023/10/cropped-231026_head_image-32x32.png',
 				avatar: 'https://www.luochancy.com/wp-content/uploads/2023/12/1904634_Ehaif6np.png',
 				archs: ['WordPress', '国内 CDN'],
-				date: '2024-03-01',
+				date: '2026-07-02',
 				comment: '学生',
 			},
 			{
@@ -320,7 +320,7 @@ export default [
 				icon: getGithubIcon('chiyuki0325'),
 				avatar: getOicqAvatar('3526514925'),
 				archs: ['Hexo', 'Vercel'],
-				date: '2024-03-03',
+				date: '2026-07-02',
 				comment: 'Archlinux，折腾。',
 			},
 			{
@@ -332,7 +332,7 @@ export default [
 				icon: 'https://blog.liushen.fun/info/avatar.ico',
 				avatar: 'https://weavatar.com/avatar/92c15d4a1d99a8ee04b986a14a5f7e009e574b3383fc575005947988ccf205e2',
 				archs: ['Hexo', '国内 CDN'],
-				date: '2024-06-02',
+				date: '2026-07-02',
 				comment: '武理工学长。',
 			},
 			{
@@ -344,7 +344,7 @@ export default [
 				icon: getFavicon('blog.awaae001.top'),
 				avatar: getGithubAvatar('awaae001'),
 				archs: ['Next.js', 'Vercel'],
-				date: '2024-06-05',
+				date: '2026-07-02',
 				comment: '有思考的学生。',
 			},
 			{
@@ -356,7 +356,7 @@ export default [
 				icon: 'https://blog.hesiy.cn/favicon-32x32.png',
 				avatar: getGithubAvatar('FloatSheep'),
 				archs: ['Hugo', 'Cloudflare'],
-				date: '2024-07-24',
+				date: '2026-07-02',
 				comment: '喜欢折腾。',
 			},
 			{
@@ -369,7 +369,7 @@ export default [
 				icon: 'https://henry.city/blog/favicon.ico',
 				avatar: 'https://henry.city/blog/images/avatar.png',
 				archs: ['Gridea', '服务器'],
-				date: '2024-07-24',
+				date: '2026-07-03',
 				comment: '很有博客的味道。',
 			},
 			{
@@ -382,7 +382,7 @@ export default [
 				icon: 'https://www.imaegoo.com/favicon.ico',
 				avatar: 'https://www.imaegoo.com/images/avatar.jpg',
 				archs: ['Hexo', '国内 CDN'],
-				date: '2024-08-19',
+				date: '2026-07-03',
 				comment: '前端折腾。',
 			},
 			{
@@ -394,7 +394,7 @@ export default [
 				icon: 'https://media.duckxu.com/blogfiles/public/iduckxucom.webp',
 				avatar: getGithubAvatar('ScDuckXu'),
 				archs: ['Typecho', '服务器'],
-				date: '2024-08-20',
+				date: '2026-07-03',
 				comment: '记录生活思考。',
 			},
 			{
@@ -406,7 +406,7 @@ export default [
 				icon: 'https://dengqn.com/favicon.ico',
 				avatar: 'https://dengqn.com/headimg.png',
 				archs: ['Vue', 'Cloudflare'],
-				date: '2024-09-18',
+				date: '2026-07-03',
 				comment: '技术吐槽和运维记录。',
 			},
 			{
@@ -417,7 +417,7 @@ export default [
 				icon: 'https://www.linexic.top/logo.png',
 				avatar: 'https://www.linexic.top/avatar.webp',
 				archs: ['Astro', 'Netlify'],
-				date: '2024-10-02',
+				date: '2026-07-03',
 				comment: '前端学习，生活。',
 			},
 			{
@@ -429,7 +429,7 @@ export default [
 				icon: getGithubIcon('tinsir888'),
 				avatar: getGithubAvatar('tinsir888'),
 				archs: ['Hexo', 'GitHub Pages'],
-				date: '2024-10-18',
+				date: '2026-07-03',
 				comment: '计算机科学，留学生活。',
 			},
 			{
@@ -440,7 +440,7 @@ export default [
 				icon: getGithubIcon('xaoxuu'),
 				avatar: getGithubAvatar('xaoxuu'),
 				archs: ['Hexo', '服务器'],
-				date: '2024-10-26',
+				date: '2026-07-03',
 				comment: '产品与博客思考，本博客网站设计的重要参考。',
 			},
 			{
@@ -453,7 +453,7 @@ export default [
 				icon: 'https://pinpe.top/favicon/logo.jpg',
 				avatar: 'https://pinpe.top/head.jpg',
 				archs: ['Astro', 'Vercel'],
-				date: '2024-10-31',
+				date: '2026-07-04',
 				comment: '奇妙幻想和思考。',
 			},
 			{
@@ -465,7 +465,7 @@ export default [
 				icon: 'https://cdn.yuuu.org/img/favicon-32x32.png',
 				avatar: 'https://cdn.yuuu.org/img/avatar.webp',
 				archs: ['Hexo', 'Vercel'],
-				date: '2024-11-03',
+				date: '2026-07-04',
 				comment: '技术分享，生活。',
 			},
 			{
@@ -476,10 +476,10 @@ export default [
 				icon: getGithubIcon('tianli0'),
 				avatar: getGithubAvatar('tianli0'),
 				archs: ['VitePress', '国内 CDN'],
-				date: '2024-12-04',
+				date: '2026-07-04',
 				comment: '技术学习笔记，TianliGPT开发者。',
 			},
-			// #region 2025
+			// #region 2026-07-05
 			{
 				author: '鸢栀',
 				sitenick: '仓库',
@@ -489,7 +489,7 @@ export default [
 				icon: 'https://yuazhi.cn/yuazhi.ico',
 				avatar: 'https://weavatar.com/avatar/1dc444f85a6673099a47170588bbc6d7?s=96',
 				archs: ['HTML', '服务器'],
-				date: '2025-02-12',
+				date: '2026-07-05',
 				comment: '日常、前端、福瑞。',
 			},
 			{
@@ -502,7 +502,7 @@ export default [
 				icon: 'https://blog.ciraos.top/favicon.ico',
 				avatar: getGithubAvatar('ciraos'),
 				archs: ['Hexo', '国内 CDN'],
-				date: '2025-03-28',
+				date: '2026-07-05',
 				comment: '前端学习。',
 			},
 			{
@@ -514,7 +514,7 @@ export default [
 				icon: getGithubIcon('ZL-Asica'),
 				avatar: getGithubAvatar('ZL-Asica'),
 				archs: ['Next.js', 'Vercel'],
-				date: '2025-04-29',
+				date: '2026-07-05',
 				comment: '机器学习、前端开发、旅游经历。',
 			},
 			{
@@ -526,7 +526,7 @@ export default [
 				icon: 'https://zhul.in/favicon.ico',
 				avatar: 'https://static.031130.xyz/avatar.webp',
 				archs: ['Nuxt', '服务器'],
-				date: '2025-05-03',
+				date: '2026-07-05',
 				comment: '前端开发、网络配置、服务器运维及开源工具实战经验。',
 			},
 			{
@@ -539,7 +539,7 @@ export default [
 				icon: 'https://blog.trfox.top/favicon.ico',
 				avatar: 'https://img.trfox.top/assets/avatar.jpg',
 				archs: ['Next.js', 'Vercel'],
-				date: '2025-08-03',
+				date: '2026-07-05',
 				comment: '技术相关的木马免杀测试、服务器处理与迁移、工具美化，以及个人博客系统更新、回归记录等。',
 			},
 			{
@@ -552,7 +552,7 @@ export default [
 				icon: getOicqAvatar('2751454815', OicqAvatarSize.Size100),
 				avatar: getOicqAvatar('2751454815'),
 				archs: ['Hexo', '国内 CDN'],
-				date: '2025-08-25',
+				date: '2026-07-05',
 				comment: '云原生、HomeLab 搭建、网络安全、容器化、静态网站托管等领域的技术实践。',
 			},
 			{
@@ -564,7 +564,7 @@ export default [
 				icon: 'https://www.sumi233.top/favicon.ico',
 				avatar: 'https://cdn.sumi233.top/gh/huang233893/blog-image-bed/top/huang233893/imgs/blog/userfb6a1018b84ce485.jpg',
 				archs: ['Hexo', '国内 CDN'],
-				date: '2025-08-29',
+				date: '2026-07-05',
 				comment: '计算机网络知识，设备折腾。',
 			},
 			{
@@ -576,7 +576,7 @@ export default [
 				icon: 'https://www.kzhik.cn/favicon.ico',
 				avatar: 'https://www.kzhik.cn/avatar.webp',
 				archs: ['Nuxt', '国内 CDN'],
-				date: '2025-08-31',
+				date: '2026-07-05',
 				comment: '前端/网络技术实践与个人记录',
 			},
 			{
@@ -589,7 +589,7 @@ export default [
 				icon: 'https://cdn.blog.saneko.me/Web/Avatar.png',
 				avatar: 'https://cdn.blog.saneko.me/Web/Avatar.png',
 				archs: ['Astro', '服务器'],
-				date: '2025-09-09',
+				date: '2026-07-05',
 				comment: '曾叫ATao，技术实践与问题解决方案',
 			},
 			{
@@ -601,7 +601,7 @@ export default [
 				icon: 'https://doge.elykia.cn/favicon.ico',
 				avatar: getGithubAvatar('Elykia093'),
 				archs: ['Hexo', '国内 CDN'],
-				date: '2025-09-26',
+				date: '2026-07-05',
 				comment: 'Hexo 安知鱼主题美化。',
 			},
 			{
@@ -613,7 +613,7 @@ export default [
 				icon: 'https://vnyzm.top/img/favicon.ico',
 				avatar: 'https://vnyzm.top/img/profile.jpg',
 				archs: ['Python', 'GitHub Pages'],
-				date: '2025-10-01',
+				date: '2026-07-05',
 				comment: '动漫观后感、游戏玩后感、技术笔记。',
 			},
 			{
@@ -624,7 +624,7 @@ export default [
 				icon: getFavicon('qsesvick.top'),
 				avatar: 'https://files3.qsesvick.top/JCZY/LOGO/YJQSES.png',
 				archs: ['WordPress', 'Cloudflare'],
-				date: '2025-10-05',
+				date: '2026-07-05',
 				comment: '工具分享，博客折腾。',
 			},
 			{
@@ -637,7 +637,7 @@ export default [
 				icon: 'https://www.sakun.space/images/favicon-32x32-next.png',
 				avatar: 'https://www.sakun.space/images/avatar.png',
 				archs: ['Hexo', '服务器'],
-				date: '2025-10-07',
+				date: '2026-07-05',
 				comment: '动漫评论。',
 			},
 			{
@@ -649,7 +649,7 @@ export default [
 				icon: 'https://www.leehenry.top/favicon.ico',
 				avatar: 'https://leehenry.top/friends/my-avatar-portrait.jpg',
 				archs: ['Astro', '服务器'],
-				date: '2025-10-15',
+				date: '2026-07-05',
 				comment: '生活分享、社会思考与技术探索。',
 			},
 			{
@@ -661,7 +661,7 @@ export default [
 				icon: 'https://panda.wikimoe.com/upload/siteImg/siteFavicon.png',
 				avatar: 'https://panda.wikimoe.com/upload/avatar/65994c0f3af05a21862459e9.webp',
 				archs: ['Nuxt', 'Cloudflare'],
-				date: '2025-10-30',
+				date: '2026-07-05',
 				comment: '游戏数据/圣地巡礼/代码笔记。',
 			},
 			{
@@ -671,7 +671,7 @@ export default [
 				icon: 'https://yxzl.dev/favicon.ico',
 				avatar: 'https://yxzl.dev/favicon.ico',
 				archs: ['VuePress', 'Cloudflare'],
-				date: '2025-11-13',
+				date: '2026-07-05',
 				comment: 'Python、Vue与算法。',
 			},
 			{
@@ -683,7 +683,7 @@ export default [
 				icon: 'https://iamyukino.cn/favicon.ico',
 				avatar: 'https://iamyukino.cn/blog/assets/home/home.jpg',
 				archs: ['Astro', '服务器'],
-				date: '2025-11-25',
+				date: '2026-07-05',
 				comment: '主页十分可爱的个人小站，记录编程技术学习经历。',
 			},
 			{
@@ -694,7 +694,7 @@ export default [
 				icon: 'https://www.krjojo.com/favicon.ico',
 				avatar: 'https://www.krjojo.com/favicon.ico',
 				archs: ['WordPress', 'Cloudflare'],
-				date: '2025-11-29',
+				date: '2026-07-05',
 				comment: '前端运维和生活思考。',
 			},
 			{
@@ -707,7 +707,7 @@ export default [
 				icon: 'https://blog.cosine.ren/favicon.ico',
 				avatar: 'https://blog.cosine.ren/img/avatar.webp',
 				archs: ['Astro', 'Vercel'],
-				date: '2025-12-07',
+				date: '2026-07-05',
 				comment: '“FE / ACG / 手工 / 深色模式强迫症 / INFP / 兴趣广泛养两只猫的老宅女 / remote”，运营《前端周周谈 FE Bits》周刊。',
 			},
 			{
@@ -719,10 +719,10 @@ export default [
 				icon: 'https://imqi1.com/favicon.ico',
 				avatar: getGithubAvatar('imqi1-github'),
 				archs: ['Nuxt', 'EdgeOne'],
-				date: '2025-12-31',
+				date: '2026-07-05',
 				comment: '博客技术与生活分享。',
 			},
-			// #region 2026
+			// #region 2026-07-06
 			{
 				author: '见崎美咲',
 				sitenick: 'Catarium',
@@ -732,7 +732,7 @@ export default [
 				icon: 'https://catarium.me/favicon.svg',
 				avatar: getGithubAvatar('Eofs791'),
 				archs: ['Astro', 'Cloudflare'],
-				date: '2026-01-02',
+				date: '2026-07-06',
 				comment: '加拿大留子，二次元。',
 			},
 			{
@@ -743,7 +743,7 @@ export default [
 				icon: 'https://blog.dumogu.top/web-assets/v-last/public/favicon.ico',
 				avatar: 'https://blog.dumogu.top/web-assets/v-last/public/user.jpg',
 				archs: ['Express', '服务器'],
-				date: '2026-01-06',
+				date: '2026-07-06',
 				comment: '捣鼓了不少东西的前端程序员。',
 			},
 			{
@@ -755,7 +755,7 @@ export default [
 				icon: 'https://blog.viki.moe/favicon.ico',
 				avatar: 'https://blog.viki.moe/avatar.png',
 				archs: ['Next.js', 'Vercel'],
-				date: '2026-01-19',
+				date: '2026-07-06',
 				comment: '前端大手子，博客与前端知识分享。',
 			},
 			{
@@ -767,7 +767,7 @@ export default [
 				icon: 'https://leenet.xyz/favicon.svg',
 				avatar: 'https://leenet.xyz/avatar.png',
 				archs: ['Nuxt', 'Vercel'],
-				date: '2026-02-21',
+				date: '2026-07-06',
 				comment: 'TUI风格的Nuxt博客，讲述博客技术学习历程。',
 			},
 			{
@@ -779,7 +779,7 @@ export default [
 				icon: getGithubIcon('Zhousiru'),
 				avatar: getGithubAvatar('Zhousiru'),
 				archs: ['Astro', 'Cloudflare'],
-				date: '2026-02-25',
+				date: '2026-07-06',
 				comment: '前端大手子。',
 			},
 			{
@@ -791,7 +791,7 @@ export default [
 				icon: 'https://blog.luckyfishes.site/favicon.ico',
 				avatar: getOicqAvatar('2383690354'),
 				archs: ['Next.js', 'Vercel'],
-				date: '2026-03-02',
+				date: '2026-07-06',
 				comment: '“老八校”西建大iOS Club前社长，但任职期间没有苹果设备。',
 			},
 			{
@@ -803,7 +803,7 @@ export default [
 				icon: 'https://blog.almango.cn/favicon.png',
 				avatar: 'https://blog.almango.cn/favicon.png',
 				archs: ['Astro', 'Vercel'],
-				date: '2026-03-22',
+				date: '2026-07-06',
 				comment: '编程入门、博客搭建、游戏生活为主的个人成长向技术博客，系统记录C#/C++/Python/前端等学习笔记、Hexo/Astro建站与主题开发、MC服务器开服日志，同时包含年度总结与游戏感悟。',
 			},
 			{
@@ -815,7 +815,7 @@ export default [
 				icon: 'https://www.zzyang.top/favicon/avatar.png',
 				avatar: 'https://www.zzyang.top/favicon/avatar.png',
 				archs: ['Astro', '服务器'],
-				date: '2026-03-28',
+				date: '2026-07-06',
 				comment: '分享Java后端、数据库与AI实战的技术博客',
 			},
 			{
@@ -828,7 +828,7 @@ export default [
 				icon: 'https://hongliu.icu/image/avator_1.jpg',
 				avatar: 'https://hongliu.icu/image/avator_1.jpg',
 				archs: ['Hexo', 'GitHub Pages'],
-				date: '2026-04-05',
+				date: '2026-07-06',
 				comment: '工科生技术与生活博客，记录机器人、电子、编程学习、开源项目与日常随笔。',
 			},
 			{
@@ -841,7 +841,7 @@ export default [
 				icon: 'https://enento.cloud/upload/1da41c9c-a767-4b17-8cfd-909e9930109f.png',
 				avatar: 'https://www.enento.cloud/upload/Enentoico.jpg',
 				archs: ['Halo', '服务器'],
-				date: '2026-04-24',
+				date: '2026-07-06',
 				comment: '艺术人文编程自设。',
 			},
 			{
@@ -853,7 +853,7 @@ export default [
 				icon: 'https://blog.lhl.one/favicon.ico',
 				avatar: 'https://smms-vip3.see.you/2025/04/18/KXpf8u5SQYNPkA3.jpg',
 				archs: ['Typecho', '服务器'],
-				date: '2026-05-25',
+				date: '2026-07-06',
 				comment: '聚焦 Typecho 主题与插件开发、各类工具二次开发及运维排障的技术博客。',
 			},
 			/* ========从此处新增友链======== */
@@ -875,7 +875,7 @@ export default [
 				icon: 'https://innei.in/innei.svg',
 				avatar: getGithubAvatar('Innei'),
 				archs: ['Next.js', 'Cloudflare'],
-				date: '2024-02-13',
+				date: '2026-07-06',
 			},
 			{
 				author: '茂茂物语',
@@ -884,7 +884,7 @@ export default [
 				icon: getGithubIcon('maomao1996'),
 				avatar: getGithubAvatar('maomao1996'),
 				archs: ['VitePress', 'Cloudflare'],
-				date: '2024-02-17',
+				date: '2026-07-06',
 				comment: '前端开发笔记。',
 			},
 			{
@@ -897,7 +897,7 @@ export default [
 				icon: 'https://blog.kouseki.cn/favicon.ico',
 				avatar: 'https://blog.kouseki.cn/imgs/avatar.webp',
 				archs: ['Hexo', 'Vercel'],
-				date: '2024-03-01',
+				date: '2026-07-06',
 				comment: '折腾Hexo博客，友链页面蛮多博客折腾选手的。',
 			},
 			{
@@ -907,7 +907,7 @@ export default [
 				icon: 'https://www.langhai.net/assets/images/langhai-logo.png',
 				avatar: 'https://www.langhai.net/assets/images/langhai-logo.png',
 				archs: ['Hugo', 'Cloudflare'],
-				date: '2024-06-04',
+				date: '2026-07-06',
 			},
 			{
 				author: '十玖八柒',
@@ -918,20 +918,8 @@ export default [
 				icon: 'https://blog.ahzoo.cn/favicon.ico',
 				avatar: 'https://ahzoo.cn/img/avatar.webp',
 				archs: ['Nuxt', '服务器'],
-				date: '2024-08-02',
+				date: '2026-07-06',
 				comment: 'Nuxt博客，技术笔记。',
-			},
-			{
-				author: '徐徐爱coding',
-				desc: '一个精美的个人博客，记录平时的学习笔记',
-				link: 'https://www.xu69.com/',
-				// feed: 'https://www.xu69.com/rss.xml',
-				icon: 'https://www.xu69.com/xu-resource/ico.png',
-				avatar: getGithubAvatar('junxu821'),
-				archs: ['Astro', '服务器'],
-				date: '2024-09-01',
-				comment: '前端技术笔记，希望能做好响应式。',
-				error: '2026-04-24更换框架后友链丢失',
 			},
 			{
 				author: '菜园前端',
@@ -940,9 +928,8 @@ export default [
 				icon: 'https://note.noxussj.top/logo.png',
 				avatar: getGithubAvatar('noxussj2'),
 				archs: ['VitePress', '服务器'],
-				date: '2024-10-23',
+				date: '2026-07-06',
 				comment: '前端学习笔记。',
-				// error: '2024年12月起无法访问 (504)',
 			},
 			{
 				author: '無名',
@@ -954,7 +941,7 @@ export default [
 				icon: getFavicon('blog.imsyy.top'),
 				avatar: getGithubAvatar('imsyy'),
 				archs: ['VitePress', 'Vercel'],
-				date: '2024-10-26',
+				date: '2026-07-06',
 			},
 			{
 				author: 'AiQiji·工具箱',
@@ -963,7 +950,7 @@ export default [
 				icon: 'https://tools.aiqji.com/favicon.ico',
 				avatar: 'https://tools.aiqji.com/favicon.ico',
 				archs: ['React', 'Cloudflare'],
-				date: '2024-11-13',
+				date: '2026-07-06',
 			},
 			{
 				author: '阿呆',
@@ -974,7 +961,7 @@ export default [
 				icon: 'https://adaiblog.github.io/favicon.ico',
 				avatar: 'https://adaiblog.github.io/img/adai.png',
 				archs: ['Hexo', 'GitHub Pages'],
-				date: '2025-03-11',
+				date: '2026-07-06',
 				comment: '技术分享与生活。',
 			},
 			{
@@ -985,7 +972,7 @@ export default [
 				icon: 'https://blog.helong.online/icon.png',
 				avatar: 'https://oss.helong.online/bucket-IMG/avatar.png',
 				archs: ['Nuxt', '国内 CDN'],
-				date: '2025-09-06',
+				date: '2026-07-06',
 				comment: '运维笔记与经验分享。',
 			},
 			{
@@ -996,7 +983,7 @@ export default [
 				icon: 'https://www.htmacg.cn/wp-content/uploads/2026/07/ava_compressed.png',
 				avatar: 'https://www.htmacg.cn/wp-content/uploads/2026/07/ava_compressed.png',
 				archs: ['WordPress', '国内 CDN'],
-				date: '2025-10-27',
+				date: '2026-07-06',
 				comment: '原名胡桃木实验室，具有运维/系统等技术分享。',
 			},
 			{
@@ -1007,7 +994,7 @@ export default [
 				icon: 'https://blog.tsoo.net/upload/lsyb.png',
 				avatar: 'https://blog.tsoo.net/upload/logo.jpg',
 				archs: ['Halo', '服务器'],
-				date: '2025-12-07',
+				date: '2026-07-06',
 				comment: '建站与笔记。',
 			},
 			{
@@ -1019,7 +1006,7 @@ export default [
 				icon: getFavicon('blog.aevi.top', { provider: 'duckduckgo' }),
 				avatar: getGithubAvatar('tongzanyang'),
 				archs: ['Halo', '服务器'],
-				date: '2026-02-05',
+				date: '2026-07-06',
 				comment: '自部署服务与博客美化。',
 			},
 			{
@@ -1030,7 +1017,7 @@ export default [
 				icon: 'https://i.stardots.io/wcowin/1750090373988.png',
 				avatar: 'https://s1.imagehub.cc/images/2025/12/06/28380affd86b014a6dcaf082fcc97064.png',
 				archs: ['Material for MkDocs', 'GitHub Pages'],
-				date: '2026-03-01',
+				date: '2026-07-06',
 				comment: 'AI/MkDocs个人技术知识库。',
 			},
 			{
@@ -1042,7 +1029,7 @@ export default [
 				icon: 'https://www.neomelt.cloud/head.jpg',
 				avatar: 'https://www.neomelt.cloud/head.jpg',
 				archs: ['Astro', 'Vercel'],
-				date: '2026-03-15',
+				date: '2026-07-06',
 				comment: '个人技术学习与实战排障。',
 			},
 			{
@@ -1054,7 +1041,7 @@ export default [
 				icon: 'https://blogoss.itxiaohui.top/logo%20-uhlgnmrf.png',
 				avatar: 'https://blogoss.itxiaohui.top/2025-10-12-pcrvnluo.png',
 				archs: ['Halo', '国内 CDN'],
-				date: '2026-04-01',
+				date: '2026-07-06',
 				comment: '技术学习与博客教程。',
 			},
 		],
