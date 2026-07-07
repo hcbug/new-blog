@@ -52,12 +52,12 @@ updated: 2026-07-07 11:15:52
 ### 申请方式：在评论区留言或发送邮件到 :tip{text="szwain@126.com" copy}
 - 标题注明 `友链申请: 你的昵称`
 - 以 :tip[任意形式]{tip="指向信息的 URL、自然语言、编程语言"} 附上友链信息，格式如下：
-    ````
-    博主：洪畅
-    标题：洪畅的博客
-    介绍：想，全是问题；做，才有答案。
-    网址：https://blog.hcbu.cn/
-    头像：https://gitee.com/hcbug/picture1/raw/master/20260607223324364.webp
-    RSS：https://blog.hcbu.cn/atom.xml
-    ````
+
+    - 博主：洪畅
+    - 标题：洪畅的博客
+    - 介绍：想，全是问题；做，才有答案。
+    - 网址：https://blog.hcbu.cn/
+    - 头像：https://gitee.com/hcbug/picture1/raw/master/20260607223324364.webp
+    - RSS：https://blog.hcbu.cn/atom.xml
+
 - 信息可能会被适当修改，以保证展示效果
