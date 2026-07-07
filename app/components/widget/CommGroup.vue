@@ -2,16 +2,16 @@
 <BlogWidget
 	card
 	dim
-	title="博客/技术社区"
-	bg-img="https://p.qlogo.cn/gh/169994096/169994096/100/"
+	title="Game"
+	bg-img="https://api.iconify.design/mingcute:horn-line.svg"
 	bg-right
 >
 	<div class="title text-creative">
-		纸网接入点
+		网站系统后台
 	</div>
 
 	<Tip copy icon :tip-options="{ placement: 'left' }">
-		<Icon name="ri:qq-fill" />169994096
+		<Icon name="tabler:brand-apple-arcade" />game.hcbu.cn/console
 	</Tip>
 </BlogWidget>
 </template>
