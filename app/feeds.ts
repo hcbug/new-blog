@@ -75,18 +75,6 @@ export default [
 				comment: '技术分享。',
 			},
 			{
-				author: 'Mugzx',
-				title: 'Mugzx\'s Blog',
-				desc: '向上革命，向下实践。',
-				link: 'https://blog.mugzx.top/',
-				feed: 'https://blog.mugzx.top/atom.xml',
-				icon: 'https://www.mugzx.top/api/icon.png',
-				avatar: 'https://www.mugzx.top/api/avatar.png',
-				archs: ['Nuxt', 'Vercel'],
-				date: '2025-01-29',
-				comment: '思考博客与技术观建设。',
-			},
-			{
 				author: '东方月初',
 				sitenick: 'BiuXin',
 				title: 'BiuXin-s Blog',
