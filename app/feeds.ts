@@ -856,6 +856,17 @@ export default [
 				date: '2026-07-06',
 				comment: '聚焦 Typecho 主题与插件开发、各类工具二次开发及运维排障的技术博客。',
 			},
+			{
+				author: 'fiee',
+				title: 'Fiee\'s Blog',
+				desc: '“长风破浪会有时，直挂云帆济沧海”',
+				link: 'https://www.aifiee.cn',
+				avatar: 'https://aifiee-blog.oss-cn-beijing.aliyuncs.com/blog/images/1782719333889_1414.jpg',
+				icon: 'https://aifiee-blog.oss-cn-beijing.aliyuncs.com/blog/images/1782719333889_1414.jpg',
+				archs: ['Vue', 'React'],
+				date: '2026-07-09',
+				comment: '前端笔记、后端技术。',
+			},
 			/* ========从此处新增友链======== */
 		],
 	},
