@@ -5,7 +5,7 @@ const archIcons = {
 	'Cloudflare': 'simple-icons:cloudflare',
 	'C语言': 'file-icons:c',
 	'Deno Deploy': 'simple-icons:deno',
-	'Docker': 'simple-icons:docker'
+	'Docker': 'simple-icons:docker',
 	'EdgeOne': 'simple-icons:cloudnativebuild', // 不准确
 	'Express': 'simple-icons:express',
 	'FastAPI': 'simple-icons:fastapi',
