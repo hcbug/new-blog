@@ -879,6 +879,17 @@ export default [
 				date: '2026-07-11',
 				comment: '记录技术思考与生活感悟，分享有趣的知识与经验',
 			},
+			{
+				author: 'LazyCatttt',
+				title: '浮生',
+				desc: '无人扶我青云志，我自踏雪至山巅',
+				link: 'https://maozm.art/',
+				avatar: 'https://maozm.art/assets/profile-avatar.webp',
+				icon: 'https://maozm.art/assets/favicon-96.png',
+				archs: ['C语言', 'Python'],
+				date: '2026-07-11',
+				comment: '文绉绉的程序员，可爱的博客',
+			},
 			/* ========从此处新增友链======== */
 		],
 	},

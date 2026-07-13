@@ -3,9 +3,12 @@
 const archIcons = {
 	'Astro': 'simple-icons:astro',
 	'Cloudflare': 'simple-icons:cloudflare',
+	'C语言': 'file-icons:c',
 	'Deno Deploy': 'simple-icons:deno',
+	'Docker': 'simple-icons:docker'
 	'EdgeOne': 'simple-icons:cloudnativebuild', // 不准确
 	'Express': 'simple-icons:express',
+	'FastAPI': 'simple-icons:fastapi',
 	'Fly': 'tabler:air-balloon',
 	'Framer': 'simple-icons:framer',
 	'Ghost': 'simple-icons:ghost',
