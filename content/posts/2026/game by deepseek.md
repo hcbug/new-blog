@@ -21,7 +21,14 @@ id: BV18UKf6KEhy
 
 于是用DeepSeek生成了该网页。源代码在：
 
-::github{repo="hcbug/game" path="main/console"}
+::link-card
+---
+title: hcbug的仓库
+icon: https://github.com/favicon.ico
+link: https://github.com/hcbug/game/tree/main/console
+class: gradient-card active
+---
+::
 
 ## 提示词
 
