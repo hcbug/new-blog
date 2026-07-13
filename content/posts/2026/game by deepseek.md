@@ -2,7 +2,7 @@
 title: 我教DeepSeek生成的一款游戏
 description: 这是一款伪装成网站后台的`解密`小游戏。我没敲一行代码，但打了3466个字。
 date: 2026-07-13 22:21:52
-updated: 2026-07-13 22:21:52
+updated: 2026-07-13 23:47:30
 image: https://gitee.com/hcbug/picture1/raw/master/20260713223503816.webp
 categories: [开发]
 tags: [HTML]
